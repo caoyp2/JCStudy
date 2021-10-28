@@ -1,0 +1,7 @@
+resultList:
+  - casename : "1-1"
+    caseresult : true
+  - casename : "1-2"
+    caseresult : false
+  - casename : "2-1"
+    caseresult : true
